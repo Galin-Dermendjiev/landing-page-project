@@ -124,3 +124,39 @@ h2 {
     font-weight: bold;
     margin: 0;
 }
+
+/* section four */
+
+.section-four {
+    padding-bottom: 7%;
+}
+.container .background-section-four {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.section-four-sign-up {
+    border: 2px solid #F9FAF8;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.background-section-four {
+    background-color: #3882F6;
+    padding: 3% 8%;
+    border-radius: 12px;
+}
+
+.text {
+    color: #F9FAF8;
+}
+
+.text h3, .text p {
+    margin: 0;
+}
+
+h3{
+    font-size: 1.7rem;
+}
